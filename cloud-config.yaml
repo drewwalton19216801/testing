@@ -1,0 +1,7 @@
+﻿#cloud-config
+users:
+  - name: "drew"
+    passwd: "i2MB7a*%9noA1"
+    groups:
+      - "sudo"
+      - "docker"
